@@ -468,7 +468,8 @@
 	    padding-top: 60px;
 	}
 	.navbar-brand img {
-		height: 30px;
+		height: 80px;
+		max-width: 100%;
 	}
 	.navbar-toggle {
 		height: 30px;
