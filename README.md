@@ -28,4 +28,4 @@ Having so many financial applications means Zen protocol will allocate funding f
 
 Note the project will be releasing in an iterative manner to ensure high quality and security, with our FaaS self-repaying loans releasing last. \
 \
-Only 1 team member currently has a twitter account, however the entire team will be on twitter soon and active in the community, we decided to rush the landing page because we didn't want anyone to release before us :tada::tada::thumbsup::thumbsup::thumbsup::thumbsup:)
+Only 1 team member currently has a twitter account, however the entire team will be on twitter soon and active in the community, we decided to rush the landing page because we didn't want anyone to release before us :)

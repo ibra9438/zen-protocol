@@ -10,4 +10,4 @@ description: DeFI coolest feature
 
 ****[**FaaS**](https://www.thedefiedge.com/farming-as-a-service/) **self-repaying loans:** Traditional FaaS applications charge a high fee between 5-15% and then repay investors over time. this heavy fee can be a problem as it might take months for users to get their principle investments back, only then will they start to make a profit. Users on Zen protocol will get %50 immediately in our overcollateralized stable coin $zUSD and our hardworking DeFi farmer will get to work on repaying back your loan.&#x20;
 
-Zen protocol charges a one time fee of %1 and %10 on the interest generated.
+Zen protocol charges a one time fee of %1 and %10 depending on interest generated, subject to revision.
