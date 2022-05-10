@@ -23,3 +23,9 @@ We are also considering releasing special NFTs that would grant you slightly hig
 Zen protocol financial applications suite includes: two types of Self-repaying loans, automated portfolio manager, single-sided liquidity pool, boot strapping liquidity pool, no loss lottery and gaming. Zen protocol charges a small fee on each of these services and buys back $ZEN with it, with a small portion going to treasury.&#x20;
 
 Having so many financial applications means Zen protocol will allocate funding for other developers to build on top of our protocol and leverage $zen to innovate on aurora and further increase $zen utility.&#x20;
+
+
+
+Note the project will be releasing in an iterative manner to ensure high quality and security, with our FaaS self-repaying loans releasing last. \
+\
+Only 1 team member currently has a twitter account, however the entire team will be on twitter soon and active in the community, we decided to release the landing page quickly because we didn't want anyone to do this before us :)&#x20;
